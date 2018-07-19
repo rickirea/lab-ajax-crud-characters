@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "name": "Chuck Norris",
+      "occupation": "the bad gay",
+      "weapon": "his hands",
+      "cartoon": "on",
+      "id": 8
+    },
+    {
+      "name": "Pepe",
+      "occupation": "Cosas",
+      "weapon": "pistola",
+      "cartoon": true,
+      "id": 9
+    }
+  ]
+}
